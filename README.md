@@ -1,4 +1,4 @@
-# xwiki
+## How to Install XWiki on CentOS 7
 
 #### 1. Install Java
 ```sh
